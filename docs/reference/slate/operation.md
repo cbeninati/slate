@@ -30,6 +30,7 @@ Inserts a `text` string at `offset` into a text node at `path`, with optional `m
   path: Array,
   offset: Number,
   text: String,
+  marks: Array,
 }
 ```
 
